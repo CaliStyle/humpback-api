@@ -71,8 +71,6 @@ module.exports = {
     scope.ModelFilename = scope.args[0].charAt(0).toUpperCase() + scope.args[0].slice(1) + '.js';
     scope.whatIsThisModel = 'humpback-model created at '+scope.createdAt;
 
-    scope.filename = scope.args[0].charAt(0).toUpperCase() + scope.args[0].slice(1) + '.js';
-
     // Add other stuff to the scope for use in our templates:
     
 
