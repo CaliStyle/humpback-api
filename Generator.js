@@ -103,8 +103,7 @@ module.exports = {
 
     './assets/app/controllers/:ControllerFilename' : {template : 'controller.template.js'},
     './assets/app/models/:ModelFilename' : {template : 'model.template.js'},
-    './': ['controller'],
-    './': ['model'],
+    './': ['api']
   },
 
 
