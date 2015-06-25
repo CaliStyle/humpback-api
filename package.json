@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-humpback-api",
-  "version": "0.11.4",
+  "version": "0.11.5",
   "description": "sails generate humpback-api",
   "main": "Generator.js",
   "scripts": {
